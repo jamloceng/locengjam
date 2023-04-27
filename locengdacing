@@ -373,17 +373,6 @@ http://iptv12k.com:35461/live/test167/12345/605.m3u8
 #EXTINF:-1 group-title="Kids" ch-number="473" tvg-id="Aniplus" tvg-chno="472" tvg-logo="https://iili.io/1Nc919.jpg",473 Aniplus HD
 http://iptv12k.com:35461/live/test167/12345/686.m3u8
 
-
-#EXTINF:-1 tvg-id="NatGeoWild" group-title="Documentaries" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",550 National Geographic Wild
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default.mpd
-
-#EXTINF:-1 tvg-id="NationalGeographic" group-title="Documentaries" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default.mpd
-
 #EXTINF:-1 tvg-id="DiscoveryChannel" group-title="Documentaries" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",552 Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
